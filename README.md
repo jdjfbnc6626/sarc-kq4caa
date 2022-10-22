@@ -2,10 +2,6 @@
 - https://www.qrz.com/db/KQ4CAA
 - searat.arc@gmail.com
 
-# Dev references
-- https://github.com/jdjfbnc6626/usaf-sdi-flex-and-grid
-- https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/
-
 # Project resources/services
 ## S3 buckets
 - codepipeline-us-east-1-64955554199
@@ -15,5 +11,9 @@
 ## Route53
 - Did NOT auto-renew annual $11.00 fee
 
+# Dev references
+- https://github.com/jdjfbnc6626/usaf-sdi-flex-and-grid
+- https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/
 
-
+# Dev notes
+- Default favicon bugs, so mving down from 32x32 
