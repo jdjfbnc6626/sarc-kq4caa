@@ -12,8 +12,10 @@
 - Did NOT auto-renew annual $11.00 fee
 
 # Dev references
-- https://github.com/jdjfbnc6626/usaf-sdi-flex-and-grid
-- https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/
+- Complete overhaul to https://getbootstrap.com/docs/4.3/examples/
+- WILL BOOTSTRAP WORK AS STATIC S3?
+    - https://github.com/jdjfbnc6626/usaf-sdi-flex-and-grid
+    - https://www.freecodecamp.org/news/web-layouts-use-css-grid-and-flex-to-create-responsive-webpages/
 
 # Dev notes
 - Default favicon bugs, so mving down from 32x32 
